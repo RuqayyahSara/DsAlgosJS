@@ -1,0 +1,14 @@
+{
+  "name": "dsalgo",
+  "version": "1.0.0",
+  "description": "Solving dsalgos problems using java script",
+  "main": "buzzfizz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruqayyah Sara",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
